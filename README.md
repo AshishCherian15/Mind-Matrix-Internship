@@ -2,7 +2,7 @@
 
 Welcome to my Android internship portfolio repository. This repo contains 14 Android Studio applications built and organized in a clear learning progression.
 
-## Portfolio Order (Final) 🧭
+## Portfolio Order 🧭
 
 1. GreetingCard
 2. HappyBirthdayCard
