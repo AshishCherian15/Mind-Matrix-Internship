@@ -1,28 +1,31 @@
-﻿# Tip Calculator
+﻿# TipCalculator 💸
 
-An Android app that calculates tip amounts based on bill total, tip percentage, and rounding preference.
+Portfolio Order: 6️⃣
 
-## Features
-- Enter bill amount.
-- Adjust tip percentage.
-- Optional round-up behavior.
-- Instant tip result updates.
+## Overview
+TipCalculator is a practical utility app for calculating tips based on bill amount and selected tip percentage. It demonstrates input handling and live result updates.
 
-## Tech Stack
+## What This App Demonstrates
+- Text input parsing and validation
+- Numeric calculations in UI apps
+- State-driven result rendering
+
+## Key Features ✨
+- Bill amount input
+- Adjustable tip percentage
+- Optional rounding behavior
+- Instant tip output display
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source and resources
+- app/ -> Main module
+- app/src/main/java/ -> Calculation and UI logic
+- app/src/main/res/ -> Strings/themes
 
-## How to Run
-1. Open in Android Studio.
-2. Sync Gradle files.
-3. Run on emulator/device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open folder in Android Studio.
+2. Sync dependencies.
+3. Run app and test tip scenarios.

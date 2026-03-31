@@ -1,28 +1,32 @@
-﻿# Reply
+﻿# Reply 📧
 
-A sample email-style Android app that demonstrates adaptive layouts and Material 3 design patterns.
+Portfolio Order: 1️⃣4️⃣
 
-## Features
-- Inbox and message detail experience.
-- Adaptive UI behavior across device sizes.
-- Material 3 components and theming.
+## Overview
+Reply is an email-style sample application designed to demonstrate adaptive layouts and polished Material 3 experience across different screen sizes.
 
-## Tech Stack
+## What This App Demonstrates
+- Adaptive UI concepts
+- Material 3 components and theming
+- Master-detail style content patterns
+
+## Key Features ✨
+- Inbox-style interface
+- Message content screens
+- Responsive layout behavior
+- Professional design language
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 - Material 3
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source code and resources
+- app/ -> Android module
+- app/src/main/java/ -> Adaptive screens and UI components
+- app/src/main/res/ -> Resources, themes, strings
 
-## How to Run
+## Run Instructions ▶️
 1. Open in Android Studio.
 2. Complete Gradle sync.
-3. Run on device or emulator.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+3. Run on phone/tablet emulator.

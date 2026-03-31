@@ -1,30 +1,30 @@
-﻿# Lemonade
+﻿# Lemonade 🍋
 
-A state-driven Android app that simulates making lemonade through multiple interaction steps.
+Portfolio Order: 4️⃣
 
-## Features
-- Tap-based state transitions:
-  - Pick lemon
-  - Squeeze lemon
-  - Drink lemonade
-  - Restart
-- Demonstrates UI state management.
+## Overview
+Lemonade is a state-driven app that teaches user interaction and UI state changes. The user taps through a sequence to make lemonade from tree-picking to restart.
 
-## Tech Stack
+## What This App Demonstrates
+- State management in Compose
+- Conditional UI updates based on current step
+- Click handling and interaction loops
+
+## Key Features ✨
+- Multi-step lemonade flow
+- Dynamic image/message changes
+- Fun interaction cycle for learning state transitions
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source and resources
+- app/ -> Main Android module
+- app/src/main/java/ -> App UI and state logic
+- app/src/main/res/drawable/ -> Lemon step images
 
-## How to Run
-1. Open in Android Studio.
-2. Sync Gradle dependencies.
-3. Run on emulator/device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open project in Android Studio.
+2. Sync Gradle.
+3. Run on an emulator or connected phone.

@@ -1,27 +1,32 @@
-﻿# Happy Birthday Card
+﻿# HappyBirthdayCard 🎂
 
-An Android app that shows a birthday wish card with styled text and themed background.
+Portfolio Order: 2️⃣
 
-## Features
-- Birthday message display.
-- Visual card-style layout.
-- Compose UI fundamentals.
+## Overview
+HappyBirthdayCard is a Compose-based greeting app that focuses on visual hierarchy and themed message design. It is useful for learning text overlays and decorative UI composition.
 
-## Tech Stack
+## What This App Demonstrates
+- Styled greeting card layout
+- Background and typography balance
+- Basic Compose theming and screen design
+
+## Key Features ✨
+- Birthday message with attractive formatting
+- Friendly visual card presentation
+- Beginner-level structure with clean code flow
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
+- Material design components
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source code and resources
+- app/ -> Main module
+- app/src/main/res/ -> Drawables, themes, strings
+- gradle/ -> Build wrapper files
 
-## How to Run
-1. Open this project in Android Studio.
-2. Sync Gradle.
-3. Run on an emulator or device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open in Android Studio.
+2. Wait for Gradle sync.
+3. Select target device.
+4. Press Run.

@@ -1,28 +1,31 @@
-﻿# Superheroes
+﻿# Superheroes 🦸
 
-An Android app that displays a list of superheroes with images and descriptions.
+Portfolio Order: 🔟
 
-## Features
-- Scrollable list UI.
-- Card-based item presentation.
-- Compose list and layout patterns.
+## Overview
+Superheroes is a character-list app that displays superhero profiles with visual identity and descriptions. It demonstrates scalable list UI and card composition.
 
-## Tech Stack
+## What This App Demonstrates
+- Scrollable list patterns
+- Card item composition in Compose
+- Image + text formatting for profile apps
+
+## Key Features ✨
+- Hero name and details
+- Visual profile cards
+- Simple and readable app architecture
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 - Material 3
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source and resources
+- app/ -> App module
+- app/src/main/java/ -> List and item composables
+- app/src/main/res/ -> Hero assets and values
 
-## How to Run
-1. Open project in Android Studio.
-2. Sync Gradle.
-3. Run on emulator/device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open the project in Android Studio.
+2. Perform Gradle sync.
+3. Launch app on emulator or phone.

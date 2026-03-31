@@ -1,27 +1,30 @@
-﻿# Dice Roller
+﻿# DiceRoller 🎲
 
-A basic Android app that rolls a virtual dice and displays a random result.
+Portfolio Order: 5️⃣
 
-## Features
-- Roll action button.
-- Random dice result generation.
-- Simple beginner-friendly UI.
+## Overview
+DiceRoller is a simple random-number app that simulates rolling a physical dice. It is ideal for learning click events and basic random logic.
 
-## Tech Stack
+## What This App Demonstrates
+- Button click interactions
+- Random value generation
+- Visual feedback through UI update
+
+## Key Features ✨
+- Roll button
+- Dynamic dice result display
+- Beginner-friendly architecture
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source code and assets
+- app/ -> App module
+- app/src/main/java/ -> Main activity and UI
+- app/src/main/res/ -> Strings and graphics
 
-## How to Run
+## Run Instructions ▶️
 1. Open in Android Studio.
-2. Sync Gradle files.
-3. Run on emulator/device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+2. Wait for Gradle sync.
+3. Run on device/emulator.

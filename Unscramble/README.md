@@ -1,29 +1,32 @@
-﻿# Unscramble
+﻿# Unscramble 🔤
 
-A word puzzle game where players guess the original word from shuffled letters.
+Portfolio Order: 1️⃣2️⃣
 
-## Features
-- Random scrambled words.
-- Score tracking.
-- Next/skip flow.
-- End-of-game summary.
+## Overview
+Unscramble is a word puzzle game where players identify original words from scrambled characters. It supports score tracking and round-based progression.
 
-## Tech Stack
+## What This App Demonstrates
+- Game state handling with ViewModel patterns
+- Input validation and feedback
+- Multi-round UI flow
+
+## Key Features ✨
+- Scrambled word generation
+- Score updates
+- Skip/next progression
+- End-of-game summary
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
-- ViewModel and state handling
+- ViewModel/state management
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source and resources
+- app/ -> Android app module
+- app/src/main/java/ -> Game logic and UI states
+- app/src/main/res/ -> Strings and assets
 
-## How to Run
-1. Open this project in Android Studio.
-2. Sync Gradle dependencies.
-3. Run on emulator/device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open in Android Studio.
+2. Sync Gradle.
+3. Run and play game rounds.

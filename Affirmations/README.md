@@ -1,30 +1,30 @@
-﻿# Affirmations
+﻿# Affirmations 🌟
 
-An Android app that displays a scrollable list of affirmations (and related course items) using modern Android UI patterns.
+Portfolio Order: 8️⃣
 
-## Features
-- Displays a list of affirmation cards.
-- Uses images and text resources.
-- Demonstrates list-based UI with Compose.
+## Overview
+Affirmations is a list-based motivational app that displays affirmation cards with image/text content. It is useful for learning list rendering and structured data presentation.
 
-## Tech Stack
+## What This App Demonstrates
+- List and card UI in Compose
+- Data source to UI mapping
+- Reusable item composables
+
+## Key Features ✨
+- Scrollable affirmation feed
+- Image + text card format
+- Easy-to-extend content model
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
-- Android Gradle Plugin
 
 ## Project Structure
-- app/ main Android application module
-- app/src/main/ source code and resources
-- gradle/ Gradle wrapper files
+- app/ -> Main module
+- app/src/main/java/ -> Model, data source, UI
+- app/src/main/res/ -> Images and strings
 
-## How to Run
-1. Open this folder in Android Studio.
+## Run Instructions ▶️
+1. Open folder in Android Studio.
 2. Let Gradle sync complete.
-3. Select an emulator or connected device.
-4. Click Run.
-
-## Requirements
-- Android Studio (latest stable recommended)
-- JDK 17 (recommended for recent Android Gradle Plugin versions)
-- Android SDK installed through Android Studio
-
+3. Run on a connected device/emulator.

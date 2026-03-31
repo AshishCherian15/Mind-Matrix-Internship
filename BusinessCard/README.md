@@ -1,27 +1,30 @@
-﻿# Business Card
+﻿# BusinessCard 🪪
 
-A simple Android app that presents a personal business card layout with name, role, and contact details.
+Portfolio Order: 3️⃣
 
-## Features
-- Single-screen profile card UI.
-- Contact information section.
-- Compose-based layout practice.
+## Overview
+BusinessCard is a profile card application that introduces personal branding layout design in Android. It combines static information blocks with simple icon/text composition.
 
-## Tech Stack
+## What This App Demonstrates
+- Structured UI sections
+- Contact info layout and spacing
+- Reusable composable patterns
+
+## Key Features ✨
+- Name and role section
+- Contact details section
+- Minimal and professional visual arrangement
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ Kotlin source and resources
+- app/ -> Android module
+- app/src/main/java/ -> UI logic
+- app/src/main/res/ -> Strings and assets
 
-## How to Run
-1. Open in Android Studio.
-2. Wait for Gradle sync.
-3. Run the app on a device or emulator.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open project in Android Studio.
+2. Complete Gradle sync.
+3. Launch app on emulator/device.

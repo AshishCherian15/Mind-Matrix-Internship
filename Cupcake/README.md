@@ -1,30 +1,33 @@
-﻿# Cupcake
+﻿# Cupcake 🧁
 
-A multi-screen cupcake ordering app that demonstrates state management and navigation in Compose.
+Portfolio Order: 1️⃣3️⃣
 
-## Features
-- Select quantity and flavor.
-- Choose pickup date.
-- Review and share order summary.
-- Navigation between multiple screens.
+## Overview
+Cupcake is a multi-screen order flow app for selecting quantity, flavor, and pickup date before reviewing order summary. It is a strong example of Compose navigation and shared UI state.
 
-## Tech Stack
+## What This App Demonstrates
+- Multi-screen navigation
+- Shared order state across screens
+- Form-like UI with step-by-step flow
+
+## Key Features ✨
+- Select quantity/flavor/date
+- Live order summary
+- Share order details
+- Structured navigation graph
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 - Navigation for Compose
-- ViewModel and state handling
+- ViewModel/state handling
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ UI, logic, and resources
+- app/ -> Main module
+- app/src/main/java/ -> Screens, view model, navigation
+- app/src/main/res/ -> Values and resources
 
-## How to Run
-1. Open the project in Android Studio.
-2. Sync Gradle.
-3. Run on emulator or connected Android device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open with Android Studio.
+2. Sync dependencies.
+3. Run and complete order flow.

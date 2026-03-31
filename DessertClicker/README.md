@@ -1,28 +1,30 @@
-﻿# Dessert Clicker
+﻿# DessertClicker 🍰
 
-An incremental tap game where each dessert sale increases revenue and unlocks new desserts over time.
+Portfolio Order: 1️⃣1️⃣
 
-## Features
-- Tap to sell desserts.
-- Progressive dessert unlocking.
-- Tracks total revenue and desserts sold.
-- Activity lifecycle-aware behavior.
+## Overview
+DessertClicker is a clicker-style game where each tap represents dessert sales. As progress increases, new desserts unlock and revenue keeps growing.
 
-## Tech Stack
+## What This App Demonstrates
+- Event-driven updates
+- Simple game progression logic
+- Revenue and count tracking in UI
+
+## Key Features ✨
+- Tap to sell desserts
+- Revenue and sold-count metrics
+- Progressive dessert unlock behavior
+
+## Tech Stack 🛠️
 - Kotlin
-- Android Views or Compose (project source defines implementation)
+- Android app framework (project implementation)
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source and resources
+- app/ -> Main module
+- app/src/main/java/ -> Game logic and UI
+- app/src/main/res/ -> Dessert images and values
 
-## How to Run
-1. Open in Android Studio.
-2. Perform Gradle sync.
-3. Run on emulator/device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+## Run Instructions ▶️
+1. Open this folder in Android Studio.
+2. Sync Gradle dependencies.
+3. Run and tap to play.

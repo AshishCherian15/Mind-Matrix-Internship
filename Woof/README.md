@@ -1,28 +1,31 @@
-﻿# Woof
+﻿# Woof 🐶
 
-An Android app that showcases dogs in a feed with expandable cards and polished Material styling.
+Portfolio Order: 9️⃣
 
-## Features
-- Dog profile list.
-- Expand/collapse interaction per item.
-- Material 3 themed Compose UI.
+## Overview
+Woof is a modern dog-profile feed app that shows pet cards with expandable details. The app highlights polished Material styling and interaction-focused UI patterns.
 
-## Tech Stack
+## What This App Demonstrates
+- Expand/collapse card interactions
+- Themed Compose UI components
+- List presentation with rich item design
+
+## Key Features ✨
+- Dog list cards
+- Expandable content per item
+- Material 3 visual styling
+
+## Tech Stack 🛠️
 - Kotlin
 - Jetpack Compose
 - Material 3
 
 ## Project Structure
-- app/ Android app module
-- app/src/main/ source and resources
+- app/ -> Core module
+- app/src/main/java/ -> Screen and component logic
+- app/src/main/res/ -> Icons, drawables, and values
 
-## How to Run
+## Run Instructions ▶️
 1. Open in Android Studio.
-2. Run Gradle sync.
-3. Launch on emulator or device.
-
-## Requirements
-- Android Studio
-- JDK 17
-- Android SDK
-
+2. Sync Gradle files.
+3. Run on emulator/device.
