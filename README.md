@@ -23,73 +23,73 @@ Welcome to my Android internship portfolio repository. This repo contains 14 And
 
 ### 1) GreetingCard 💌
 A beginner Compose app for displaying a greeting message with styled text and layout alignment.
-- Folder: [GreetingCard](GreetingCard)
-- Details: [GreetingCard README](GreetingCard/README.md)
+- Folder: [01_GreetingCard](01_GreetingCard)
+- Details: [GreetingCard README](01_GreetingCard/README.md)
 
 ### 2) HappyBirthdayCard 🎂
 A themed birthday card app with message presentation and visual composition.
-- Folder: [HappyBirthdayCard](HappyBirthdayCard)
-- Details: [HappyBirthdayCard README](HappyBirthdayCard/README.md)
+- Folder: [02_HappyBirthdayCard](02_HappyBirthdayCard)
+- Details: [HappyBirthdayCard README](02_HappyBirthdayCard/README.md)
 
 ### 3) BusinessCard 🪪
 A digital personal profile card app that presents identity and contact information.
-- Folder: [BusinessCard](BusinessCard)
-- Details: [BusinessCard README](BusinessCard/README.md)
+- Folder: [03_BusinessCard](03_BusinessCard)
+- Details: [BusinessCard README](03_BusinessCard/README.md)
 
 ### 4) Lemonade 🍋
 A state-based interaction app that simulates making lemonade step-by-step.
-- Folder: [Lemonade](Lemonade)
-- Details: [Lemonade README](Lemonade/README.md)
+- Folder: [04_Lemonade](04_Lemonade)
+- Details: [Lemonade README](04_Lemonade/README.md)
 
 ### 5) DiceRoller 🎲
 A simple random-result app that rolls a virtual dice.
-- Folder: [DiceRoller](DiceRoller)
-- Details: [DiceRoller README](DiceRoller/README.md)
+- Folder: [05_DiceRoller](05_DiceRoller)
+- Details: [DiceRoller README](05_DiceRoller/README.md)
 
 ### 6) TipCalculator 💸
 A utility app that calculates tip amount based on bill value and tip percentage.
-- Folder: [TipCalculator](TipCalculator)
-- Details: [TipCalculator README](TipCalculator/README.md)
+- Folder: [06_TipCalculator](06_TipCalculator)
+- Details: [TipCalculator README](06_TipCalculator/README.md)
 
 ### 7) ArtSpace 🖼️
 A mini gallery app showing artworks with title, artist, and navigation controls.
-- Folder: [ArtSpace](ArtSpace)
-- Details: [ArtSpace README](ArtSpace/README.md)
+- Folder: [07_ArtSpace](07_ArtSpace)
+- Details: [ArtSpace README](07_ArtSpace/README.md)
 
 ### 8) Affirmations 🌟
 A list-based app that displays motivational affirmations and card content.
-- Folder: [Affirmations](Affirmations)
-- Details: [Affirmations README](Affirmations/README.md)
+- Folder: [08_Affirmations](08_Affirmations)
+- Details: [Affirmations README](08_Affirmations/README.md)
 
 ### 9) Woof 🐶
 A dog profile feed app with expandable cards and polished Material styling.
-- Folder: [Woof](Woof)
-- Details: [Woof README](Woof/README.md)
+- Folder: [09_Woof](09_Woof)
+- Details: [Woof README](09_Woof/README.md)
 
 ### 10) Superheroes 🦸
 A list app that presents superheroes with images and descriptions.
-- Folder: [Superheroes](Superheroes)
-- Details: [Superheroes README](Superheroes/README.md)
+- Folder: [10_Superheroes](10_Superheroes)
+- Details: [Superheroes README](10_Superheroes/README.md)
 
 ### 11) DessertClicker 🍰
 A tap-based incremental game where each click increases sales and revenue.
-- Folder: [DessertClicker](DessertClicker)
-- Details: [DessertClicker README](DessertClicker/README.md)
+- Folder: [11_DessertClicker](11_DessertClicker)
+- Details: [DessertClicker README](11_DessertClicker/README.md)
 
 ### 12) Unscramble 🔤
 A word puzzle app where users guess original words from scrambled letters.
-- Folder: [Unscramble](Unscramble)
-- Details: [Unscramble README](Unscramble/README.md)
+- Folder: [12_Unscramble](12_Unscramble)
+- Details: [Unscramble README](12_Unscramble/README.md)
 
 ### 13) Cupcake 🧁
 A multi-screen ordering flow app with navigation and UI state management.
-- Folder: [Cupcake](Cupcake)
-- Details: [Cupcake README](Cupcake/README.md)
+- Folder: [13_Cupcake](13_Cupcake)
+- Details: [Cupcake README](13_Cupcake/README.md)
 
 ### 14) Reply 📧
 An adaptive email-style sample app focused on modern Compose and Material 3 patterns.
-- Folder: [Reply](Reply)
-- Details: [Reply README](Reply/README.md)
+- Folder: [14_Reply](14_Reply)
+- Details: [Reply README](14_Reply/README.md)
 
 ## Repository Structure 🗂️
 
@@ -97,20 +97,20 @@ An adaptive email-style sample app focused on modern Compose and Material 3 patt
 AndroidStudioProjects/
 |-- README.md
 |-- .gitignore
-|-- GreetingCard/
-|-- HappyBirthdayCard/
-|-- BusinessCard/
-|-- Lemonade/
-|-- DiceRoller/
-|-- TipCalculator/
-|-- ArtSpace/
-|-- Affirmations/
-|-- Woof/
-|-- Superheroes/
-|-- DessertClicker/
-|-- Unscramble/
-|-- Cupcake/
-`-- Reply/
+|-- 01_GreetingCard/
+|-- 02_HappyBirthdayCard/
+|-- 03_BusinessCard/
+|-- 04_Lemonade/
+|-- 05_DiceRoller/
+|-- 06_TipCalculator/
+|-- 07_ArtSpace/
+|-- 08_Affirmations/
+|-- 09_Woof/
+|-- 10_Superheroes/
+|-- 11_DessertClicker/
+|-- 12_Unscramble/
+|-- 13_Cupcake/
+`-- 14_Reply/
 ```
 
 Each project generally includes:
