@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Affirmations &amp; Courses</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity.</string>
+    <string name="affirmation4">I am grateful for what I have.</string>
+    <string name="affirmation5">I can overcome any obstacle.</string>
+    <string name="affirmation6">I choose to be happy.</string>
+    <string name="affirmation7">I am worthy of love and respect.</string>
+    <string name="affirmation8">I am becoming the best version of myself.</string>
+    <string name="affirmation9">My possibilities are endless.</string>
+    <string name="affirmation10">I am calm and at peace.</string>
+
+    <string name="architecture">Architecture</string>
+    <string name="business">Business</string>
+    <string name="design">Design</string>
+    <string name="music">Music</string>
+</resources>
